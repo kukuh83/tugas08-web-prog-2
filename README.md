@@ -4,4 +4,4 @@ Nama : Kukuh Aji Santoso
 <br>
 Nim : 17090059
 <br>
-Kelas :5 A
+Kelas : 5 A
